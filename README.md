@@ -3,7 +3,7 @@
 ### MERN Frontend-разработчик
 
 ### Мой стек Frontend технологий и инструментов
-
+#
 - JavaScirpt
 - HTML/CSS
 - React

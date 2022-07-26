@@ -13,6 +13,8 @@
 - React Router Dom
 - Material UI
 
+
+
 ### Мой стек Backend технологий и инструментов
 
 - NodeJs
@@ -31,6 +33,8 @@
 
 - [Frontend](https://github.com/MuhammadKatalov/Quize_frontend)
 - [Backend](https://github.com/MuhammadKatalov/Quize_backend)
+
+
 
 Аренда хижины
 

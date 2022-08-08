@@ -38,6 +38,6 @@
 
 Аренда хижины
 
-- [Frontend](https://github.com/MuhammadKatalov/Hotel_front)
-- [Backend](https://github.com/MuhammadKatalov/Hotel_back)
+- [Frontend](https://github.com/MuhammadKatalov/Hotel_frontend)
+- [Backend](https://github.com/MuhammadKatalov/Hotel_backend)
 

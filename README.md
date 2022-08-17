@@ -21,8 +21,10 @@
 - Express
 - MongoDB
 - Mongoose
-- JSON WebToken
-- Dotenv
+- JWT
+- DotenV
+- UUID
+- nodemailer
 
 #
 
